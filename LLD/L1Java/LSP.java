@@ -1,4 +1,4 @@
-package LLD.L1;
+package LLD.L1Java;
 
 public class LSP {
     
